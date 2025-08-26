@@ -1,3 +1,3 @@
-function somar(a, b) {
+export function somar(a, b) {
     return a + b;   
 }
